@@ -11,6 +11,6 @@ AI agent engineer and designer in Riyadh. I specify, test and evaluate Arabic-fi
 
 ## Writing
 
-I write about applied AI and agent reliability in Arabic and English at [sefr.tech](https://sefr.tech).
+I write about applied AI and agent reliability in Arabic and English at [blog.bot-matic.com](https://blog.bot-matic.com).
 
 Contact: azizx@outlook.com
