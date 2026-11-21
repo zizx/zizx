@@ -5,7 +5,7 @@ AI agent engineer and designer in Riyadh. I specify, test and evaluate Arabic-fi
 ## Work
 
 - **[PDPL compliance auditor](https://github.com/zizx/SDAIA_DB_Policy)** (MVP). Agents classify database columns under Saudi SDAIA/PDPL rules; deterministic code profiles, masks and reports. FastAPI, LangGraph, PostgreSQL.
-- **Mafhous** (private). A Telegram agent that lets phone shops list used phones by chat; an approval step gates each publish to a Salla store. Runs on my own server; tested on Salla demo stores.
+- **Chat-to-listing agent** (private). A conversational agent for a business of mine: suppliers submit items by chat, the agent collects the details through tools, and nothing is published until I approve it. Runs on my own server.
 - **Arabic real-estate matching benchmark** (local pilot). Five models compared on 99 real Arabic request/offer pairs, with a holdout set scored once.
 - **Multi-agent operations.** 22 role-scoped agents with written roles, skills and review gates, used daily for publishing, video and e-commerce work.
 
