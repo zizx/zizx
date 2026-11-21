@@ -1,6 +1,6 @@
 # Abdulaziz Alkhulayfi
 
-AI agent designer in Riyadh. I specify, test and evaluate Arabic-first AI agents: conversation flows, knowledge bases, tool contracts and scenario tests. I build with AI coding agents and own the design, the tests and the release decision.
+AI agent engineer and designer in Riyadh. I specify, test and evaluate Arabic-first AI agents: conversation flows, knowledge bases, tool contracts and scenario tests. I build with AI coding agents and own the design, the tests and the release decision.
 
 ## Work
 
